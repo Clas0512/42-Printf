@@ -65,7 +65,7 @@ Studied and compared the printf() function in detail, observing how Buffer Manag
 
 Had to use Variadic Functions and learned how to create flexible and general-purpose functions.
 
-
+---
 
 If you have any questions, suggestions, or feedback, feel free to reach me at mrb.bn@hotmail.com. I would be happy to assist you with your inquiries :)
 
