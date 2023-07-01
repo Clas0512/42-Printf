@@ -68,4 +68,6 @@ Bu projeyi yaparken:
     
 Variadic Fonksiyonları kullanmak durumunda kaldım ve esnek ve genel amaçlı işlevler oluşturmanın nasıl mümkün olduğunu öğrendim.
 
+---
+
 Eğer herhangi bir sorunuz, öneriniz veya geri bildiriminiz varsa mrb.bn@hotmail.com mail adresinden bana ulaşabilirsiniz. Sorularınız için memnuniyetle yardımcı olurum :)
