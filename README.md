@@ -2,7 +2,7 @@
 
 <div align="center"><img src="Pictures/Printf.png" alt="printf"></div>
 
-Bu proje C dilinde popüler olan `printf()` işlevinin düşük bütçeli denebilecek bir kopyasıdır. Düşük bütçeli denebilir çünkü `ft_printf`'in `printf`'den azımsanmayacak farkları vardır. Örneğin, bu işlev `printf`'in aksine "Buffer Yönetimi" içermez. Başka bir örnek ise, bu işlev `printf`'in desteklediği "diouxXfFeEgGaAcsb" formatlar arasından sadece 8 tanesini destekler.
+Bu proje C dilinde popüler olan `printf()` işlevinin düşük bütçeli denebilecek bir kopyasıdır. Düşük bütçeli denebilir çünkü `ft_printf`'in `printf`'den azımsanmayacak farkları vardır. Örneğin, bu işlev `printf`'in aksine "Buffer Yönetimi" içermez. Başka bir örnek ise, bu işlev `printf`'in desteklediği 17 format arasından "diouxXfFeEgGaAcsb" sadece 8 tanesini destekler.
 
 ## Gereksinimler
 - C Derleyicisi: Proje, C programlama diliyle yazılmıştır, bu nedenle bir C derleyicisi olan GCC (GNU Compiler Collection) veya benzeri bir derleyiciye ihtiyacınız vardır. GCC genellikle Linux ve diğer Unix tabanlı sistemlerde varsayılan derleyici olarak bulunur. [Buraya](https://www.mingw-w64.org/) tıklayarak indirebilirsiniz.
