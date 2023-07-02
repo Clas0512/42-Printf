@@ -1,5 +1,7 @@
 # ft_printf
 
+<div align="center"><img src="Pictures/Printf.png" alt="printf"></div>
+
 Bu proje C dilinde popüler olan `printf()` işlevinin in düşük bütçeli denebilecek bir kopyasıdır. Düşük bütçeli denebilir çünkü `ft_printf`'in `printf`'den azımsanmayacak farkları vardır. Örneğin, bu işlev `printf`'in aksine "Buffer Yönetimi" içermez. Başka bir örnek ise, bu işlev `printf`'in desteklediği "diouxXfFeEgGaAcsb" formatlar arasından sadece 8 tanesini destekler.
 
 ## Gereksinimler
