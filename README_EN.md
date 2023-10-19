@@ -1,6 +1,6 @@
 # ft_printf
 
-This project is a low-budget version of the popular printf() function in the C language. It can be considered low-budget because ft_printf has significant differences compared to printf. For example, this function does not include "Buffer Management" like printf. Another example is that this function supports only 8 out of the "diouxXfFeEgGaAcsb" formats supported by printf.
+This project is a version of the popular printf() function in the C language. It is less effective than original because ft_printf has significant differences compared to printf. For example, this function does not include "Buffer Management" like printf. Another example is that this function supports only 8 out of the "diouxXfFeEgGaAcsb" formats supported by printf.
 
 ## Requirements
 - C Compiler: The project is written in the C programming language, so you need a C compiler such as GCC (GNU Compiler Collection) or a similar compiler. GCC is usually the default compiler on Linux and other Unix-based systems. You can download it from here if you don't have it installed.
