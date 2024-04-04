@@ -65,10 +65,7 @@ Not: İlgili derleyici ve araçlar, çoğu Unix tabanlı işletim sisteminde var
 
 
 # Kazanımlarım
-Bu projeyi yaparken:
-    `printf()` işlevini karşılaştırma yaparak daha detaylı inceledim ve Buffer Yönetiminin nasıl işlediğini gözlemledim.
-    
-Variadic Fonksiyonları kullanmak durumunda kaldım ve esnek ve genel amaçlı işlevler oluşturmanın nasıl mümkün olduğunu öğrendim.
+Bu proje, C programlama dilinde yaygın olarak kullanılan `printf()` fonksiyonunun bir benzerini yazmayı hedeflemektedir. Proje sayesinde, printf fonksiyonunun nasıl çalıştığını daha iyi anlama ve C dilindeki variadic fonksiyonlari, buffer yonetimini ve temel kavramları pekiştirme imkanı buldum.
 
 ---
 
